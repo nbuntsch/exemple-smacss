@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../Downloads/OneDrive_3_10-01-2023/02. Site organisé en SMACSS/css"
+    },
+    {
+      "path": "../../../Downloads/OneDrive_3_10-01-2023/02. Site organisé en SMACSS/img"
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "eslint.validate": ["html", "javascript"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "Zignd.html-css-class-completion"
+    ]
+  }
+}

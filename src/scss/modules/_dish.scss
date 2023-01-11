@@ -1,0 +1,27 @@
+.dish {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.dish-picture {
+  border-radius: 50%;
+  border: solid 1px #ccc;
+  margin-bottom: 15px;
+}
+
+.dish-title {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.dish-description {
+  margin-bottom: 12px;
+}
+
+.dish-more {
+  display: inline-block;
+  background: #f75353;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px 10px;
+}

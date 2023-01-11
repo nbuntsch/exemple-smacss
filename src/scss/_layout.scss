@@ -1,0 +1,23 @@
+.l-container {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.l-columns {
+  display: flex;
+}
+
+.l-fullcol {
+  width: 100%;
+  padding: 0 15px;
+}
+
+.l-halfcol {
+  width: 50%;
+  padding: 0 15px;
+}
+
+.l-fourthcol {
+  width: 25%;
+  padding: 0 15px;
+}

@@ -1,0 +1,23 @@
+.heading {
+  text-align: center;
+  padding: 60px 0 100px;
+  margin-top: 40px;
+  background: url('../img/crown.png') no-repeat center top;
+}
+
+.heading-title {
+  font-size: 35px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.heading-description {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.heading-bottom {
+  height: 5px;
+  border: 1px dashed #dedede;
+  margin-top: 15px;
+}
